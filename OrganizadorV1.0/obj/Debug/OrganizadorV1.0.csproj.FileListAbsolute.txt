@@ -1,0 +1,10 @@
+C:\Users\usuario\Source\Repos\OrganizadorV1.0\bin\Debug\OrganizadorV1.0.exe.config
+C:\Users\usuario\Source\Repos\OrganizadorV1.0\bin\Debug\OrganizadorV1.0.exe
+C:\Users\usuario\Source\Repos\OrganizadorV1.0\bin\Debug\OrganizadorV1.0.pdb
+C:\Users\usuario\Source\Repos\OrganizadorV1.0\obj\Debug\OrganizadorV1.0.csprojAssemblyReference.cache
+C:\Users\usuario\Source\Repos\OrganizadorV1.0\obj\Debug\OrganizadorV1._0.Form1.resources
+C:\Users\usuario\Source\Repos\OrganizadorV1.0\obj\Debug\OrganizadorV1._0.Properties.Resources.resources
+C:\Users\usuario\Source\Repos\OrganizadorV1.0\obj\Debug\OrganizadorV1.0.csproj.GenerateResource.cache
+C:\Users\usuario\Source\Repos\OrganizadorV1.0\obj\Debug\OrganizadorV1.0.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Source\Repos\OrganizadorV1.0\obj\Debug\OrganizadorV1.0.exe
+C:\Users\usuario\Source\Repos\OrganizadorV1.0\obj\Debug\OrganizadorV1.0.pdb
